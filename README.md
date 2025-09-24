@@ -21,8 +21,8 @@ Tenho dois perfis porque infelizmente perdi o meu acesso do último :
 
 ### Perfil: **@silvioggsantana**
 <div align="center">
-  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvioggsantana&layout=pie&theme=radical"/>
- <img height="280em" src="https://github-readme-stats.vercel.app/api?username=silvioggsantana&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false&border_radius=15"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvioggsantana&layout=pie&theme=radical"/>
+ <img height="220em" src="https://github-readme-stats.vercel.app/api?username=silvioggsantana&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false&border_radius=15"/>
 
 </div>
 
